@@ -8,10 +8,10 @@
     </feature>
     <name>mototaps-user</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Aplicac�n para el servicio de mototaxismo.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="diferami@gmail.com" href="http://www.mototaps.com">
+        Diego F. Ramirez R.
     </author>
     <content src="index.html" />
     <access origin="*" />
